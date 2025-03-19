@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Email: jiangyannoah@163.com
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Chongqing Normal University </p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Bioinfomatics</p>
+    <p>Epigenetics</p>
+    <p>Mobile Element</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,32 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# Research Interests and Academic Vision
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## Academic Background
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am Yan Jiang, a researcher dedicated to the intersection of computational genomics and functional genomics. During my Master's studies, I focused on the function and regulatory networks of transposable elements in insect genomes, establishing a systematic bioinformatic analysis framework and scientific thinking approach.
+
+As the first author, I published a pioneering study in the prestigious journal **MOLECULAR BIOLOGY AND EVOLUTION** revealing how transposon-derived miRNAs participate in honeybee caste differentiation regulation. This work was the first to demonstrate how non-coding RNAs derived from transposable elements reshape gene expression networks and influence complex social behavior formation. Additionally, my collaborative research on Mariner transposons and pesticide tolerance will soon be published in **Current Biology**, offering new perspectives on insect resistance mechanisms.
+
+## Research Interests and Future Directions
+
+Building upon my Master's research foundation, I maintain a strong interest in computational challenges and theoretical questions in life sciences, with particular focus on:
+
+- **Systematic Analysis of Genomic Functional Elements**: Going beyond coding regions to explore regulatory networks and functional modules in genomic "dark matter," understanding the intrinsic connections between 3D genome structure and expression regulation.
+
+- **Multi-omics Data Integration**: Constructing complete explanatory pathways from sequence variations to phenotypic differences, capturing causal relationships and regulatory logic across different omics levels.
+
+- **Epigenetic Dynamics and Phenotypic Plasticity**: Deepening understanding of the central role of epigenetic modifications in cell fate determination and biological adaptability, uncovering the molecular basis of epigenetic state transitions.
+
+- **Theoretical Innovation in Computational Methods**: During my doctoral studies, I look forward to delving into deep learning, graph neural networks, and other cutting-edge computational paradigms, exploring AI-driven methodological innovations in bioinformatics that will enable modeling and prediction of complex biological systems.
+
+## Scientific Thinking and Academic Aspirations
+
+My Master's research has given me profound insight into genomics' critical transition from descriptive studies to mechanistic understanding. In this process, computational methods serve not only as data processing tools but also as sources of theoretical innovation.
+
+Research on transposable elements has revealed to me the dynamic nature of the genome—not a static information repository but a complex system full of intrinsic logic, responding to developmental needs and environmental changes through sophisticated regulatory networks. This systems thinking will guide my future academic exploration.
+
+The rapid development of AI technologies like deep learning is reshaping the methodological foundation of bioinformatics. During my doctoral studies, I anticipate not only mastering these frontier technologies but also deeply integrating them with the characteristics of biological problems, developing computational frameworks with theoretical insights that will advance qualitative leaps in understanding genomic function.
+
+I believe that, building on the computational foundation and biological perspective established during my Master's studies, and through in-depth learning and exploration during my doctoral phase, I can make meaningful contributions at the convergence of life sciences and computational sciences.
