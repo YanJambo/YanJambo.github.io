@@ -27,13 +27,13 @@ Manually extracting these sequences would be tedious and error-prone, especially
 
 Here's a Python script that uses the Biopython library to extract sequences from a genome based on BLAST results:
 
-python
-#!/usr/bin/env python3
-import argparse
-from Bio import SeqIO
-from Bio.Seq import Seq
+    python
+    #!/usr/bin/env python3
+    import argparse
+    from Bio import SeqIO
+    from Bio.Seq import Seq
 
-def extract_sequences(blast_file, genome_file, output_file):
+    def extract_sequences(blast_file, genome_file, output_file):
     # Parse genome file
     genome_dict = {}
     for record in SeqIO.parse(genome_file, "fasta"):
@@ -89,10 +89,10 @@ def extract_sequences(blast_file, genome_file, output_file):
                 sequence = str(Seq(sequence).reverse_complement())
             
             # Write in FASTA format
-            header = f">{region['query_id']}|{region['subject_id']}:{region['start']}-{region['end']}:{region['strand']}"
+            header = f">{region['query_id']}|{region['subject_id']}:{region['start']}-{region['end']}:       {region['strand']}"
             out.write(f"{header}\n{sequence}\n")
 
-def main():
+    def main():
     parser = argparse.ArgumentParser(description='Extract sequences from a genome based on BLAST results')
     parser.add_argument('-b', '--blast', required=True, help='Path to BLAST output file')
     parser.add_argument('-g', '--genome', required=True, help='Path to genome FASTA file')
@@ -102,7 +102,7 @@ def main():
     
     extract_sequences(args.blast, args.genome, args.output)
     
-if __name__ == "__main__":
+    if __name__ == "__main__":
     main()
 
 
