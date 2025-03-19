@@ -13,66 +13,66 @@ A visual journey through the vertical cityscape of Chongqing, where traditional 
 
 ## Urban Landscapes
 
-<div class="row">
-    <div class="col-sm-6">
-        <img src="{{ site.baseurl }}/assets/img/photography/DSC_0704.jpg" class="img-fluid" alt="Chongqing cityscape">
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photography/DSC_0704.jpg" title="Chongqing cityscape" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6">
-        <img src="{{ site.baseurl }}/assets/img/photography/DSC_0709.jpg" class="img-fluid" alt="Chongqing cityscape">
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-sm-6">
-        <img src="{{ site.baseurl }}/assets/img/photography/DSC_0714.jpg" class="img-fluid" alt="Chongqing cityscape">
-    </div>
-    <div class="col-sm-6">
-        <img src="{{ site.baseurl }}/assets/img/photography/DSC_0716.jpg" class="img-fluid" alt="Chongqing cityscape">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photography/DSC_0709.jpg" title="Chongqing cityscape" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-<div class="row">
-    <div class="col-sm-6">
-        <img src="{{ site.baseurl }}/assets/img/photography/DSC_0720.jpg" class="img-fluid" alt="Chongqing cityscape">
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photography/DSC_0714.jpg" title="Chongqing cityscape" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6">
-        <img src="{{ site.baseurl }}/assets/img/photography/DSC_0725.jpg" class="img-fluid" alt="Chongqing cityscape">
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-sm-6">
-        <img src="{{ site.baseurl }}/assets/img/photography/DSC_0743.jpg" class="img-fluid" alt="Chongqing cityscape">
-    </div>
-    <div class="col-sm-6">
-        <img src="{{ site.baseurl }}/assets/img/photography/DSC_0744.jpg" class="img-fluid" alt="Chongqing cityscape">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photography/DSC_0716.jpg" title="Chongqing cityscape" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-<div class="row">
-    <div class="col-sm-6">
-        <img src="{{ site.baseurl }}/assets/img/photography/DSC_0758.jpg" class="img-fluid" alt="Chongqing cityscape">
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photography/DSC_0720.jpg" title="Chongqing cityscape" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6">
-        <img src="{{ site.baseurl }}/assets/img/photography/DSC_0778.jpg" class="img-fluid" alt="Chongqing cityscape">
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-sm-6">
-        <img src="{{ site.baseurl }}/assets/img/photography/DSC_0788.jpg" class="img-fluid" alt="Chongqing cityscape">
-    </div>
-    <div class="col-sm-6">
-        <img src="{{ site.baseurl }}/assets/img/photography/DSC_0790.jpg" class="img-fluid" alt="Chongqing cityscape">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photography/DSC_0725.jpg" title="Chongqing cityscape" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-<div class="row">
-    <div class="col-sm-6">
-        <img src="{{ site.baseurl }}/assets/img/photography/DSC_0800.jpg" class="img-fluid" alt="Chongqing cityscape">
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photography/DSC_0743.jpg" title="Chongqing cityscape" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6">
-        <img src="{{ site.baseurl }}/assets/img/photography/DSC_0881.jpg" class="img-fluid" alt="Chongqing cityscape">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photography/DSC_0744.jpg" title="Chongqing cityscape" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photography/DSC_0758.jpg" title="Chongqing cityscape" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photography/DSC_0778.jpg" title="Chongqing cityscape" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photography/DSC_0788.jpg" title="Chongqing cityscape" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photography/DSC_0790.jpg" title="Chongqing cityscape" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photography/DSC_0800.jpg" title="Chongqing cityscape" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photography/DSC_0881.jpg" title="Chongqing cityscape" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
