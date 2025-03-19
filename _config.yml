@@ -123,8 +123,6 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: Nobelprize 2024
-    rss_url: https://www.nobelprize.org/prizes/chemistry/2024/press-release/
   - name: 
     posts:TED|Epigenetics|How early life experience is written into DNA
       - url: https://www.ted.com/talks/moshe_szyf_how_early_life_experience_is_written_into_dna
