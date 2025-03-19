@@ -9,10 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><strong>Bioinfomatics<strong></p>
-    <p><strong>Epigenetics<strong></p>
-    <p><strong>Computational genomics and functional genomics<strong><p>
-    <p><strong>Deep learning<p><strong>
+    <div style="text-align: center; font-weight: bold;">
+      <div style="margin: 8px 0;">Bioinfomatics</div>
+      <div style="margin: 8px 0;">Epigenetics</div>
+      <div style="margin: 8px 0;">Computational genomics</div>
+      <div style="margin: 8px 0;">Functional genomics</div>
+      <div style="margin: 8px 0;">Deep learning</div>
+    </div>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
