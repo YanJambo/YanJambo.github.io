@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div style="text-align: center;">
-      <div style="margin: 8px 0;">Bioinfomatics</div>
-      <div style="margin: 8px 0;">Epigenetics</div>
-      <div style="margin: 8px 0;">Deep learning</div>
+    <div style="text-align: left;">
+      <div style="margin: 6px 0;">Bioinfomatics</div>
+      <div style="margin: 6px 0;">Epigenetics</div>
+      <div style="margin: 6px 0;">Deep learning</div>
     </div>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -33,7 +33,7 @@ latest_posts:
 
 I am Yan Jiang, a researcher dedicated to the intersection of computational genomics and functional genomics. During my Master's studies, I focused on the function and regulatory networks of transposable elements in insect genomes, establishing a systematic bioinformatic analysis framework and scientific thinking approach.
 
-As the first author, I published a pioneering study in the prestigious journal **MOLECULAR BIOLOGY AND EVOLUTION** revealing how transposon-derived miRNAs participate in honeybee caste differentiation regulation. This work was the first to demonstrate how non-coding RNAs derived from transposable elements reshape gene expression networks and influence complex social behavior formation. Additionally, my collaborative research on Mariner transposons and pesticide tolerance will soon be published in **Current Biology**, offering new perspectives on insect resistance mechanisms.
+As the first author, I published a pioneering study in the journal **MOLECULAR BIOLOGY AND EVOLUTION** revealing how transposon-derived miRNAs participate in honeybee caste differentiation regulation. This work was the first to demonstrate how non-coding RNAs derived from transposable elements reshape gene expression networks and influence complex social behavior formation. Additionally, my collaborative research on Mariner transposons and pesticide tolerance will soon be published in **Current Biology**, offering new perspectives on insect resistance mechanisms.
 
 ## Research Interests and Future Directions
 
