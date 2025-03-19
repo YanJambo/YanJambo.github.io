@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-extracting-sequences-from-genomes-using-blast-results",
+            },{id: "post-chongqing-the-mountain-city-of-cyberpunk-magic",
+      
+        title: "Chongqing - The Mountain City of Cyberpunk Magic",
+      
+      description: "A photographic exploration of Chongqing&#39;s unique urban landscape.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/chongqing-cyberpunk-city/";
+        
+      },
+    },{id: "post-extracting-sequences-from-genomes-using-blast-results",
       
         title: "Extracting Sequences from Genomes Using BLAST Results",
       
