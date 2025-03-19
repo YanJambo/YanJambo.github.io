@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div style="text-align: left;">
+    <div style="text-align: right;">
       <div style="margin: 6px 0;">Bioinfomatics</div>
       <div style="margin: 6px 0;">Epigenetics</div>
       <div style="margin: 6px 0;">Deep learning</div>
