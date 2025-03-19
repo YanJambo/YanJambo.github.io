@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>**Bioinfomatics**</p>
-    <p>**Epigenetics**</p>
-    <p>**Transposon**</p>
+    <p><strong>Bioinfomatics<strong></p>
+    <p><strong>Epigenetics<strong></p>
+    <p><strong>Computational genomics and functional genomics<strong><p>
+    <p><strong>Deep learning<p><strong>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
