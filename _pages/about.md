@@ -9,11 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div style="text-align: center; font-weight: bold;">
+    <div style="text-align: center;">
       <div style="margin: 8px 0;">Bioinfomatics</div>
       <div style="margin: 8px 0;">Epigenetics</div>
-      <div style="margin: 8px 0;">Computational genomics</div>
-      <div style="margin: 8px 0;">Functional genomics</div>
       <div style="margin: 8px 0;">Deep learning</div>
     </div>
 
